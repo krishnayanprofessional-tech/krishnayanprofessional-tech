@@ -54,7 +54,7 @@ I write code with intention:
 ---
 
 ## 🤝 Connect With Me
-🔗 GitHub: **[@TheBestDeveloper]((https://github.com/krishnayanprofessional-tech))**  
+🔗 GitHub: **[@krishnayanprofessional-tech]((https://github.com/krishnayanprofessional-tech))**  
 🌐 Portfolio: *coming soon*
 
 ---
