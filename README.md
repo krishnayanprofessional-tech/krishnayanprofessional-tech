@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <a href="https://github.com/N4si">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00E1FF&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Krishnayan+Bhattacharjee;aka+N4si;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/krishnayanprofessional-tech">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=00E1FF&center=true&vCenter=true&lines=Hi+There!+👋;I'm+Krishnayan+Bhattacharjee;Full+Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
