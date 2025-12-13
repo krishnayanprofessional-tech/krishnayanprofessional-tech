@@ -55,10 +55,9 @@ I write code with intention:
 
 ## 🤝 Connect With Me
 🔗 GitHub: **[@TheBestCoderOutThere](https://github.com/krishnayanprofessional-tech)**  
-🌐 Portfolio: *coming soon*
+🌐 Portfolio: **[Krishnayan Portfolio](https://krishnayan.netlify.com)**
 
 ---
-
 <p align="center">
 ✨ Thanks for visiting! Have a great day 🚀
 </p>
