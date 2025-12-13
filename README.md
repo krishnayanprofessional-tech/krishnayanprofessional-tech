@@ -55,7 +55,7 @@ I write code with intention:
 
 ## 🤝 Connect With Me
 🔗 GitHub: **[@TheBestCoderOutThere](https://github.com/krishnayanprofessional-tech)**  
-🌐 Portfolio: **[Krishnayan Portfolio](https://krishnayan.netlify.com)**
+🌐 Portfolio: **[Krishnayan Portfolio](https://krishnayan.netlify.app)**
 
 ---
 <p align="center">
