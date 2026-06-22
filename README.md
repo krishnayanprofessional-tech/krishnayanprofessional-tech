@@ -30,9 +30,9 @@ I build **clean, accessible, and performant web applications**, focusing on scal
 
 ### **Backend & Frameworks**
 🔹 Python  
-🔹 Django 
-🔹 Node JS
-🔹 PostgreSQL
+🔹 Django  
+🔹 Node JS  
+🔹 PostgreSQL 
 
 ### **Cloud & Databases**
 🔹 Firebase
