@@ -25,11 +25,14 @@ I build **clean, accessible, and performant web applications**, focusing on scal
 ### **Frontend**
 🔹 HTML  
 🔹 CSS  
+🔹 Tailwind CSS  
 🔹 JavaScript  
 
 ### **Backend & Frameworks**
 🔹 Python  
-🔹 Django  
+🔹 Django 
+🔹 Node JS
+🔹 PostgreSQL
 
 ### **Cloud & Databases**
 🔹 Firebase
